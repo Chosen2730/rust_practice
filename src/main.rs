@@ -1,8 +1,5 @@
-mod pages {
-    pub mod about;
-    pub mod home;
-    pub mod secure;
-}
+mod components;
+mod pages;
 
 mod app_router {
     pub mod route;

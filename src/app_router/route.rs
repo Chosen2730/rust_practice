@@ -1,6 +1,7 @@
 use crate::pages::about::About;
 use crate::pages::home::Home;
 use crate::pages::secure::Secure;
+
 use yew::prelude::*;
 use yew_router::prelude::*;
 
